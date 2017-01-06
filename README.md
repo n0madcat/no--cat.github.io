@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+web: 
+- sample1.html[Link](https://n0madcat.github.io/no--cat.github.io/sample1.html)
+- sample2.html[Link](https://n0madcat.github.io/no--cat.github.io/sample2.html)
+
 You can use the [editor on GitHub](https://github.com/n0madcat/no--cat.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
