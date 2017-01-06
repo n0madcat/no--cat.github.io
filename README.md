@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
-web: 
+Primjeri na webu: 
 - [sample1.html](https://n0madcat.github.io/no--cat.github.io/sample1.html)
 - [sample2.html](https://n0madcat.github.io/no--cat.github.io/sample2.html)
+- [sample3.html](https://n0madcat.github.io/no--cat.github.io/sample3.html)
+- [sample4.html](https://n0madcat.github.io/no--cat.github.io/sample4.html)
 
 You can use the [editor on GitHub](https://github.com/n0madcat/no--cat.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
